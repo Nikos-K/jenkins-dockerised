@@ -10,7 +10,7 @@ In addition to **Jenkins v. 2.98**, the image contains the following:
 ## Prerequisites
 
 ## To build the Jenkins Docker image
-1. Clone the repo and navigate in the repository
+1. Clone the repo and navigate in the jenkins-dockerised folder.
 2. Run `docker build -t jenkins .`
 
 ## To run a Jenkins Docker container using the new image:
